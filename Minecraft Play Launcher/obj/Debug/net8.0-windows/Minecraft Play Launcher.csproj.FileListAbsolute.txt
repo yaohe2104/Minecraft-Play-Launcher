@@ -28,3 +28,33 @@ C:\Users\Administrator\source\repos\Minecraft Play Launcher\Minecraft Play Launc
 C:\Users\Administrator\source\repos\Minecraft Play Launcher\Minecraft Play Launcher\bin\Debug\net8.0-windows\ICSharpCode.SharpZipLib.dll
 C:\Users\Administrator\source\repos\Minecraft Play Launcher\Minecraft Play Launcher\bin\Debug\net8.0-windows\P2PSocket.Core.dll
 C:\Users\Administrator\source\repos\Minecraft Play Launcher\Minecraft Play Launcher\bin\Debug\net8.0-windows\SquareMinecraftLauncherCore.dll
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\bin\Debug\net8.0-windows\Minecraft Play Launcher.exe
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\bin\Debug\net8.0-windows\Minecraft Play Launcher.deps.json
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\bin\Debug\net8.0-windows\Minecraft Play Launcher.runtimeconfig.json
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\bin\Debug\net8.0-windows\Minecraft Play Launcher.dll
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\bin\Debug\net8.0-windows\Minecraft Play Launcher.pdb
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\bin\Debug\net8.0-windows\Downloader.dll
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\bin\Debug\net8.0-windows\KMCCC.dll
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\bin\Debug\net8.0-windows\OneMinecraftLauncher.Core.dll
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\bin\Debug\net8.0-windows\ICSharpCode.SharpZipLib.dll
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\bin\Debug\net8.0-windows\P2PSocket.Core.dll
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\bin\Debug\net8.0-windows\SquareMinecraftLauncherCore.dll
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\obj\Debug\net8.0-windows\Minecraft Play Launcher.csproj.AssemblyReference.cache
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\obj\Debug\net8.0-windows\App.g.cs
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\obj\Debug\net8.0-windows\Minecraft Play Launcher_Content.g.cs
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\obj\Debug\net8.0-windows\Minecraft Play Launcher_MarkupCompile.cache
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\obj\Debug\net8.0-windows\MainWindow.baml
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\obj\Debug\net8.0-windows\Minecraft Play Launcher.g.resources
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\obj\Debug\net8.0-windows\Minecraft Play Launcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\obj\Debug\net8.0-windows\Minecraft Play Launcher.AssemblyInfoInputs.cache
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\obj\Debug\net8.0-windows\Minecraft Play Launcher.AssemblyInfo.cs
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\obj\Debug\net8.0-windows\Minecraft Play Launcher.csproj.CoreCompileInputs.cache
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\obj\Debug\net8.0-windows\Minecraft Play Launcher.sourcelink.json
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\obj\Debug\net8.0-windows\Minecraf.395F10BD.Up2Date
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\obj\Debug\net8.0-windows\Minecraft Play Launcher.dll
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\obj\Debug\net8.0-windows\refint\Minecraft Play Launcher.dll
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\obj\Debug\net8.0-windows\Minecraft Play Launcher.pdb
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\obj\Debug\net8.0-windows\Minecraft Play Launcher.genruntimeconfig.cache
+D:\workspace\CProjects\github\yaohe\Minecraft-Play-Launcher\Minecraft Play Launcher\obj\Debug\net8.0-windows\ref\Minecraft Play Launcher.dll

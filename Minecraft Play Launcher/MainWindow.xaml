@@ -3,17 +3,17 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:Minecarft_Play_Launcher"
+        
         mc:Ignorable="d"
         Title="Minecraft Play Launcher" Height="450" Width="800">
     <Grid>
-        <TabControl HorizontalAlignment="Center" Height="435" VerticalAlignment="Center" Width="800">
+        <TabControl HorizontalAlignment="Center" Height="450" VerticalAlignment="Center" Width="800">
             <TabItem Header="启动" Margin="0,0,0,0" Width="80" Height="30" VerticalAlignment="Top" HorizontalAlignment="Left">
-                <Grid>
+                <Grid Name="StartGrid">
                     <Grid.Background>
                         <ImageBrush ImageSource="/2023050447m92i.webp" Stretch="UniformToFill"/>
                     </Grid.Background>
-                    <Button x:Name="Stary" Content="启动游戏" Height="50" VerticalAlignment="Bottom" Width="100" HorizontalAlignment="Right" Margin="0,0,30,30" FontWeight="Bold" FontSize="20" Click="Stary_Click"/>
+                    <Button x:Name="Start" Content="启动游戏" Height="50" VerticalAlignment="Bottom" Width="100" HorizontalAlignment="Right" Margin="0,0,30,30" FontWeight="Bold" FontSize="20" Click="StartClick"/>
                     <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="游戏版本:" VerticalAlignment="Top" Width="90" Height="30" Margin="0,20,0,0" FontWeight="Bold" FontSize="20"/>
                     <ComboBox x:Name="versionCombo" DisplayMemberPath="Id" HorizontalAlignment="Left" Height="30" Margin="90,20,0,0" VerticalAlignment="Top" Width="200"/>
 
@@ -21,7 +21,7 @@
             </TabItem>
 
             <TabItem Header="登录" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,0,0,0">
-                <Grid>
+                <Grid Name = "LoginGrid">
                     <Grid.Background>
                         <ImageBrush ImageSource="/2023050447m92i.webp" Stretch="UniformToFill"/>
                     </Grid.Background>
@@ -45,7 +45,7 @@
             </TabItem>
 
             <TabItem Header="设置" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,0,0,0">
-                <Grid>
+                <Grid Name = "SettingGrid">
                     <Grid.Background>
                         <ImageBrush ImageSource="/2023050447m92i.webp" Stretch="UniformToFill"/>
                     </Grid.Background>
@@ -62,8 +62,8 @@
                         </TextBlock.Background>
                     </TextBlock>
 
-                    <Button x:Name="moren" Content="默认" Width="96" Height="30" Margin="5,225,693,142" Click="moren_Click"></Button>
-                    <Button x:Name="zidingyi" Content="自定义" Width="96" Height="30" Margin="139,225,559,142" Click="zidingyi_Click"></Button>
+                    <Button x:Name="moren" Content="默认" Width="96" Height="30" Margin="5,225,693,142" Click="SwitchDefaultBackground"></Button>
+                    <Button x:Name="zidingyi" Content="自定义" Width="96" Height="30" Margin="139,225,559,142" Click="SwitchBackground"></Button>
                     
                 </Grid>
             </TabItem>
